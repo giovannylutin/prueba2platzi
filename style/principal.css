@@ -6,11 +6,16 @@
        margin-top: 30px;
        padding: 20px;
        text-shadow: brown;
+       
+       
    }
 #caja{
        background-color: aquamarine;
        text-shadow: blue;
        border-radius: 15px;
+       -webkit-box-shadow: -12px 62px 50px 21px rgba (0,0,0,0.75);
+       -moz-box-shadow: -12px 62px 50px 21px rgba (0,0,0,0.75);
+       box-shadow: -12px 62px 50px 21px rgba (0,0,0,0.75);
  }
 #cuerpo{
        margin-left: 20px;
@@ -20,4 +25,16 @@
        font-family: Georgia, 'Times New Roman', Times, serif;
        font-size-adjust: initial;
        background-color: lemonchiffon;
+}
+#footer{
+       margin: 20px;
+       padding: 20px;
+       color: white;
+       -webkit-box-shadow: -12px 62px 50px 21px rgba (0,0,0,0.75);
+       -moz-box-shadow: -12px 62px 50px 21px rgba (0,0,0,0.75);
+       box-shadow: -12px 62px 50px 21px rgba (0,0,0,0.75);
+       background-color: teal;
+       font-family: Arial, Helvetica, sans-serif;
+       text-align: center;
+       border-radius: 10px 10px 10px 10px;
 }
