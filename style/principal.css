@@ -1,7 +1,23 @@
 #titulo{
        font-size: xx-large;
        text-align: center;
+       margin-left: 50px;
+       margin-right: 50px;
+       margin-top: 30px;
+       padding: 20px;
+       text-shadow: brown;
    }
 #caja{
-       background-color: darkgoldenrod;
+       background-color: aquamarine;
+       text-shadow: blue;
+       border-radius: 15px;
  }
+#cuerpo{
+       margin-left: 20px;
+       margin-right: 50px;
+       padding: 30px;
+       font-style: italic;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       font-size-adjust: initial;
+       background-color: lemonchiffon;
+}
